@@ -56,3 +56,10 @@
 
 ## 代码先都写在app.js中, 然后再拆分到controller 和 service 中
 ## directive里面是指令代码,  双击这个任务时 自动得到焦点
+
+
+
+
+git add xxx
+git commit xxxx
+git push
