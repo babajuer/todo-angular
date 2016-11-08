@@ -2,6 +2,7 @@
   "private": true,
 
   "scripts": {
+    "prestart": "npm install",
     "start": "node_modules/.bin/browser-sync start --server --files \"*.html, js/*.js,css/*.css\""
 
   },
