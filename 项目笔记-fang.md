@@ -58,8 +58,3 @@
 ## directive里面是指令代码,  双击这个任务时 自动得到焦点
 
 
-
-
-git add xxx
-git commit xxxx
-git push
